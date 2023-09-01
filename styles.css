@@ -115,7 +115,7 @@ a:hover {
 
 }
 
-#nft-left, #info-right {
+#info-left, #info-right {
     display: flex;
     align-items: center;
 }
